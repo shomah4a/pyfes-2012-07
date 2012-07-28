@@ -1,0 +1,15 @@
+@import url("s6.css");
+
+.s6.sphinx .page
+{
+  background-image: url("pyconjp2012_logo_s.png");
+  background-repeat: no-repeat;
+  background-position: 100% 90%;
+}
+
+ul
+{
+  margin-left: 5% !important;
+}
+
+
