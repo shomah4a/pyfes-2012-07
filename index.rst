@@ -158,6 +158,8 @@ PyCon JP 2012 開催概要
 - Paypal に **登録していない** クレジットカードでログインせずに支払う
 - PyCon JP 運営に個別問い合わせ
 
+  - 2012@pycon.jp まで
+
 .. s6:: styles
 
     li: {fontSize:'100%', textAlign:'center', margin:'30% auto', background: '#ffffff', color: '#000000'}
